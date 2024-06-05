@@ -1,0 +1,56 @@
+/*Main*/
+body {
+    background-color: #67AB69;
+    margin: 0px;
+}
+
+h1 {
+    margin: 10px 0px 0px 10px;
+    font-size: 26px;
+}
+
+p {
+    margin: 0px 0px 0px 10px;
+}
+
+/*Navigation*/
+#navigation {
+    background-color: #78C27A;
+}
+
+#navigation a {
+    text-decoration: none;
+    background-color: #408442;
+    color: #ffffff;
+    padding: 10px;
+    margin: 0px 0px 0px 110px;
+    display: block;
+    float: left;
+}
+
+#navigation a:hover {
+    background-color: #49994B;
+}
+
+/*Classes*/
+.reset {
+    clear: both;
+}
+
+/*IDs*/
+#pageContainer {
+    width: 1111px;
+    margin: 0px auto 0px auto;
+    background-color: #C2DFC3;
+}
+
+#firstSection {
+    width: 500px;
+    float: left;
+}
+
+#imageFormat {
+    margin: 10px 0px 10px 75px;
+    width: 500px;
+    float: left;
+}
